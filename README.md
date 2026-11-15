@@ -4,3 +4,5 @@ Serveur : Ubuntu Server
 Version du projet : 2.0
 Environnement : VMware + Ubuntu Server
 Formation : Linux, Réseaux et DevOps
+Ma première Pull Request GitHub.
+Collaboration et gestion de versions avec Git.
